@@ -1,6 +1,6 @@
 # Copyright 2016 NetApp, Inc. All Rights Reserved.
 GOOS=linux
-GOARCH=amd64
+GOARCH=arm
 GOGC=""
 GITHASH?=`git rev-parse HEAD || echo unknown`
 BUILD_TYPE?=custom
